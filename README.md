@@ -1,9 +1,9 @@
 # Revenge of the pancakes
 
-##Built with
+## Built with
   Go 1.13
   
-##Requirements
+## Requirements
 This program takes an input file containing the pancake stack data described in the 'input' section below.
 When running the program you must specify the path to that file as a command line arg.  If this value is not provided,
 it will look for the file in a default location of '/tmp/pancake_data'.
